@@ -185,7 +185,8 @@ class NimAI():
                     max_act = act            
 
         return max_act
-
+    
+    
 def train(n):
     """
     Train an AI by playing `n` games against itself.
